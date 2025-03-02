@@ -1,1 +1,1 @@
-# Lab-Azure-AI900
+# Machine Learning na Prática no Azure ML
